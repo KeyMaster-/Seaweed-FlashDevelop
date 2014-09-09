@@ -1,0 +1,11 @@
+#Color values used:
+- Background: 0x2E2E2E
+- Identifiers (variables) and Numbers: 0xA4A8FF
+- Types & classes: 0x7DD784
+- Keywords (public, function etc.): 0x3ABE44
+- Strings: 0xD3CF3A
+- Operators (brackets, punctuation): 0xDFE1FF
+- The "super" keyword: 0x848AFF
+- True/False values: 0x37ECEC
+- Selection background color: 0x232323
+- Selection text color: 0xffffff
